@@ -1,0 +1,49 @@
+.tema {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.internet-img {
+    width: 70vw;
+}
+
+.tema h1 {
+    font-size: 5vw;
+    color: #d5df58;
+    font-family: 'Poppins';
+}
+
+p {
+    font-size: 18px;
+    padding: 20px;
+    margin: 0 30px;
+}
+
+.temas-a {
+    color: #3e6e85;
+    background-color: #fff;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-top: 500px;
+}
+
+.temas-a:hover {
+    color: #fff;
+    background-color: #3e6e85;
+    transition: all 0.2s ease-in;
+}
+
+.lista {
+    margin: 0 80px;
+}
+
+.navegadores {
+    display: flex;
+}
+
+.navegadores img {
+    margin: 0 0 0 50px;
+}
