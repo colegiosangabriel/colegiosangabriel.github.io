@@ -44,6 +44,13 @@ p {
     display: flex;
 }
 
+
 .navegadores img {
     margin: 0 0 0 50px;
+    width: auto;
+    height: 50%;
+}
+
+.navegadores1 img {
+    height: 50%;
 }
